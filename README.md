@@ -8,13 +8,13 @@
 &nbsp; 🗂️ that I've [**tried & may revisit**](https://github.com/stars/nomadicGopher/lists/archives).  
 &nbsp; 🧾 in [**curated lists & cheatsheets**](https://github.com/stars/nomadicGopher/lists/lists-cheat-sheets).  
 
-### Training Profiles
+### TRAINING PROFILES
 &nbsp; **[Hack The Box](https://app.hackthebox.com/users/2141921)**  
 &nbsp; **[HackerRank](https://hackerrank.com/profile/nomadicGopher)**  
 &nbsp; **[Codewars](https://codewars.com/users/nomadicGopher)**
 
 <!-- 
   TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge
-  ! wasm not showing up on metrics svg. Should atleast show .01 %
+  ! wasm not showing up on metrics svg. Should show at-least .01 %
   Metrics > Playground > https://metrics.lecoq.io
 -->
