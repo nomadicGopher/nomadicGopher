@@ -8,9 +8,10 @@
 &nbsp; 🗂️ that I've [**tried & may revisit**](https://github.com/stars/nomadicGopher/lists/archives).  
 &nbsp; 🧾 in [**curated lists & cheatsheets**](https://github.com/stars/nomadicGopher/lists/lists-cheat-sheets).  
 
-<!--## Training Profiles
-* __[HackerRank](https://hackerrank.com/profile/nomadicGopher)__
-* __[Codewars](https://codewars.com/users/nomadicGopher)__-->
+### Training Profiles
+&nbsp; **[Hack The Box](https://app.hackthebox.com/users/2141921)**  
+&nbsp; **[HackerRank](https://hackerrank.com/profile/nomadicGopher)**  
+&nbsp; **[Codewars](https://codewars.com/users/nomadicGopher)**
 
 <!-- 
   TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge
