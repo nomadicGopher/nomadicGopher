@@ -9,7 +9,7 @@
 &nbsp; 🧾 in [**curated lists & cheatsheets**](https://github.com/stars/nomadicGopher/lists/lists-cheat-sheets).  
 
 ### TRAINING PROFILES
-&nbsp; **[Hack The Box](https://app.hackthebox.com/users/2141921)**  
+&nbsp; **[HackTheBox](https://app.hackthebox.com/users/2141921)**  
 &nbsp; **[HackerRank](https://hackerrank.com/profile/nomadicGopher)**  
 &nbsp; **[Codewars](https://codewars.com/users/nomadicGopher)**
 
