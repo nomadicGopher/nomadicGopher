@@ -1,7 +1,7 @@
 <img width="129px" src="https://skillicons.dev/icons?i=linux,windows,gcp" /><!-- azure githubactions -->
-| <img src="/github-metrics.svg" /><br /><img src="https://skillicons.dev/icons?i=postgres,markdown&perline=9" /><!-- python regex -->| 
+| <img src="/github-metrics.svg" />| 
 | :-: |
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=bootstrap,wordpress,wasm,git,postman,docker,clodflare&perline=9" /><!-- sqlite react nextjs graphql pytorch tensorflow nodejs nginx -->
+<img src="https://skillicons.dev/icons?i=postgres,markdown,bootstrap,wordpress,wasm,git,postman,docker,clodflare&perline=9" /><!-- python regex sqlite react nextjs graphql pytorch tensorflow nodejs nginx -->
 
 ### REPOSITORIES
 &nbsp; ✅ that I [**use & recommend**](https://github.com/stars/nomadicGopher/lists/software-i-use).  
