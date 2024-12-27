@@ -1,8 +1,8 @@
-<img width="129px" src="https://skillicons.dev/icons?i=linux,windows,gcp,githubactions" /><!--azure-->
+<img src="https://skillicons.dev/icons?i=linux,windows,gcp,githubactions" /><!--azure-->
 | <img src="/github-metrics.svg" />| 
 | :-: |
 
-### REPOSITORIES
+### REPOSITORIES...
 &nbsp; ✅ that I [**use & recommend**](https://github.com/stars/nomadicGopher/lists/software-i-use).  
 &nbsp; 💡 that I'm [**interested in trying**](https://github.com/stars/nomadicGopher/lists/interested-in).  
 &nbsp; 🗂️ that I've [**tried & may revisit**](https://github.com/stars/nomadicGopher/lists/archives).  
