@@ -2,7 +2,6 @@
 name: Metrics
 on:
   schedule: [{cron: "0 0 * * 0"}]  # Runs at midnight on Sunday
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -30,8 +29,8 @@ jobs:
           #config_timezone:  By default, dates use Greenwich meridian (GMT/UTC). value == (https://en.wikipedia.org/wiki/List_of_tz_database_time_zones --> TZ identifier)
           plugin_languages:
             details: percentage
-            exclude:
-              - JavaScript
+            #exclude:
+              #- JavaScript
             #limit: 10
             other: yes
             skipped: Sandbox
