@@ -1,7 +1,6 @@
-<img width="129px" src="https://skillicons.dev/icons?i=linux,windows,gcp" /><!-- azure githubactions -->
+<img width="129px" src="https://skillicons.dev/icons?i=linux,windows,gcp,githubactions" /><!--azure-->
 | <img src="/github-metrics.svg" />| 
 | :-: |
-<img src="https://skillicons.dev/icons?i=postgres,markdown,bootstrap,wordpress,wasm,git,postman,docker,clodflare&perline=9" /><!-- python regex sqlite react nextjs graphql pytorch tensorflow nodejs nginx -->
 
 ### REPOSITORIES
 &nbsp; ✅ that I [**use & recommend**](https://github.com/stars/nomadicGopher/lists/software-i-use).  
