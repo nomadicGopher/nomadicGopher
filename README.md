@@ -12,8 +12,3 @@
 * **[HackTheBox](https://app.hackthebox.com/users/2141921)**  
 * **[HackerRank](https://hackerrank.com/profile/nomadicGopher)**  
 * **[Codewars](https://codewars.com/users/nomadicGopher)**
-
-<!-- 
-  TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge
-  Metrics > Playground > https://metrics.lecoq.io
--->
