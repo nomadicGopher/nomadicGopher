@@ -1,4 +1,4 @@
-<img src="https://skillicons.dev/icons?i=linux,windows,gcp,azure,githubactions" />
+<img src="https://skillicons.dev/icons?i=linux,windows,azure,gcp,githubactions" />
 
 | <img src="/github-metrics.svg" />| 
 | :-: |
@@ -9,9 +9,9 @@
 &nbsp; 💡 that I'm [**interested in trying**](https://github.com/stars/nomadicGopher/lists/interested-in).  
 &nbsp; 🗂️ that I've [**tried & may revisit**](https://github.com/stars/nomadicGopher/lists/archives).  
 &nbsp; 🧾 in [**curated lists & cheatsheets**](https://github.com/stars/nomadicGopher/lists/lists-cheat-sheets).  
-&nbsp;&nbsp; 🖧 for [**cyber security**](https://github.com/stars/nomadicGopher/lists/cyber-security-tools).
+<!--&nbsp;&nbsp; 🖧 for [**cyber security**](https://github.com/stars/nomadicGopher/lists/cyber-security-tools).-->
 
-### Training Profiles
-* **[HackTheBox](https://app.hackthebox.com/users/2141921)**  
+<!--### Profiles
 * **[HackerRank](https://hackerrank.com/profile/nomadicGopher)**  
+* **[HackTheBox](https://app.hackthebox.com/users/2141921)**  -->  
 <!--* **[Codewars](https://codewars.com/users/nomadicGopher)**-->
