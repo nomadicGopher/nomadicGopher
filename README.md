@@ -16,4 +16,4 @@
 * **[HackTheBox](https://app.hackthebox.com/users/2141921)**  -->  
 <!--* **[Codewars](https://codewars.com/users/nomadicGopher)**-->
 
-Support me on [**Ko-Fi**](https://ko-fi.com/nomadicGopher)
+Support me on [**Ko-Fi**](https://ko-fi.com/nomadicGopher) or [**GitHub Sponsors**](https://github.com/sponsors/nomadicGopher)
