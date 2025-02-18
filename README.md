@@ -3,6 +3,8 @@
 | <img src="/github-metrics.svg" />| 
 | :-: |
 
+<!--<img src="https://skillicons.dev/icons?i=wasm,react,angular" />-->
+
 ### Software
 &nbsp; 💻 that I've [**produced**](https://github.com/nomadicGopher?tab=repositories).  
 &nbsp; ✅ that I [**use & recommend**](https://github.com/stars/nomadicGopher/lists/software-i-use).  
@@ -17,4 +19,4 @@
 <!--* **[Codewars](https://codewars.com/users/nomadicGopher)**-->
 
 &nbsp;  
-Support me on [**Ko-Fi**](https://ko-fi.com/nomadicGopher) or [**GitHub Sponsors**](https://github.com/sponsors/nomadicGopher)
+_Support me on [**Ko-Fi**](https://ko-fi.com/nomadicGopher) or [**GitHub Sponsors**](https://github.com/sponsors/nomadicGopher)_
