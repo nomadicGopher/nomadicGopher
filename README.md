@@ -7,11 +7,11 @@
 
 ### Software
 &nbsp; 💻 that I've [**produced**](https://github.com/nomadicGopher?tab=repositories).  
-&nbsp; ✅ that I [**use & recommend**](https://github.com/stars/nomadicGopher/lists/software-i-use).  
+&nbsp; ✅ that I [**use & recommend**](https://github.com/stars/nomadicGopher/lists/software-i-use) or am [**imorting into a program**](https://github.com/stars/nomadicGopher/lists/importing-into-a-program).  
 &nbsp; 💡 that I'm [**interested in trying**](https://github.com/stars/nomadicGopher/lists/interested-in).  
 &nbsp; 🗂️ that I've [**tried & may revisit**](https://github.com/stars/nomadicGopher/lists/archives).  
-&nbsp; 🧾 in [**curated lists & cheatsheets**](https://github.com/stars/nomadicGopher/lists/lists-cheat-sheets).  
-<!--&nbsp;&nbsp; for [**cyber security**](https://github.com/stars/nomadicGopher/lists/cyber-security-tools).-->
+&nbsp; 🧾 as [**curated lists & cheatsheets**](https://github.com/stars/nomadicGopher/lists/lists-cheat-sheets) or [demos](https://github.com/stars/nomadicGopher/lists/demos-tutorials).  
+&nbsp;&nbsp; 🖧 for [**cyber security**](https://github.com/stars/nomadicGopher/lists/cyber-security-tools).
 
 <!--### Profiles
 * **[HackerRank](https://hackerrank.com/profile/nomadicGopher)**  
