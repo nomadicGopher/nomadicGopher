@@ -14,6 +14,7 @@
 &nbsp;&nbsp; 🖧 for [**cyber security**](https://github.com/stars/nomadicGopher/lists/cyber-security-tools).
 
 <!--### Profiles
+* **[Exercism](https://exercism.org/profiles/nomadicGopher)**
 * **[HackerRank](https://hackerrank.com/profile/nomadicGopher)**  
 * **[HackTheBox](https://app.hackthebox.com/users/2141921)**  -->  
 <!--* **[Codewars](https://codewars.com/users/nomadicGopher)**-->
