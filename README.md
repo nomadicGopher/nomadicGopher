@@ -1,7 +1,7 @@
 | <img src="/github-metrics.svg" />| 
 | :-: |
 
-<img src="https://skillicons.dev/icons?i=linux,windows,azure,gcp,githubactions" height="40px" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=postgres,wordpress,vscode,postman," height="40px" /> <!-- wasm,angular,regex -->
+<img src="https://skillicons.dev/icons?i=linux,windows,azure,gcp,githubactions" height="40px" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=postgres,wordpress,wasm,angular" height="40px" /> <!--sqlite-->
 
 ### Software
 &nbsp; 💻 that I've [**produced**](https://github.com/nomadicGopher?tab=repositories).  
@@ -13,8 +13,8 @@
 
 ### Profiles
 * **[Exercism](https://exercism.org/profiles/nomadicGopher)**
-* **[HackerRank](https://hackerrank.com/profile/nomadicGopher)**  
-* **[HackTheBox](https://app.hackthebox.com/users/2141921)**
+<!-- * **[HackerRank](https://hackerrank.com/profile/nomadicGopher)**  
+* **[HackTheBox](https://app.hackthebox.com/users/2141921)** -->
 
 &nbsp;  
 _Support me on [**Ko-Fi**](https://ko-fi.com/nomadicGopher) or [**GitHub Sponsors**](https://github.com/sponsors/nomadicGopher)_
