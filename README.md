@@ -1,7 +1,6 @@
 | <img src="/github-metrics.svg" />| 
 | :-: |
-
-<img src="https://skillicons.dev/icons?i=linux,windows,azure,gcp,githubactions,postgres,wordpress" height="40px" /><!--sqlite,wasm,angular-->
+<!--<img src="https://skillicons.dev/icons?i=linux,windows,azure,gcp,githubactions,postgres,wordpress" height="40px" />--><!--sqlite,wasm,angular-->
 
 ### Software
 &nbsp; 💻 that I've [**produced**](https://github.com/nomadicGopher?tab=repositories).  
