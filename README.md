@@ -7,12 +7,24 @@
 &nbsp; 💡 that I'm [**interested in trying**](https://github.com/stars/nomadicGopher/lists/interested-in).  
 &nbsp; 🗂️ that I've [**tried & may revisit**](https://github.com/stars/nomadicGopher/lists/archives).  
 &nbsp; 🧾 as [**curated lists & cheatsheets**](https://github.com/stars/nomadicGopher/lists/lists-cheat-sheets) or [**demos**](https://github.com/stars/nomadicGopher/lists/demos-tutorials).  
-&nbsp;&nbsp; 🖧 for [**cyber security**](https://github.com/stars/nomadicGopher/lists/cyber-security-tools).
+<!--&nbsp;&nbsp; 🖧 for [**cyber security**](https://github.com/stars/nomadicGopher/lists/cyber-security-resources).-->
 
 ### Profiles
 * **[Exercism](https://exercism.org/profiles/nomadicGopher)**  
 <!--* **[HackerRank](https://hackerrank.com/profile/nomadicGopher)**  -->
 <!--* **[HackTheBox](https://app.hackthebox.com/users/2141921)**-->
 
-&nbsp;  
-_Support me on [**Ko-Fi**](https://ko-fi.com/nomadicGopher) or [**GitHub Sponsors**](https://github.com/sponsors/nomadicGopher)_
+### Support My Work
+* [**Ko-Fi**](https://ko-fi.com/nomadicGopher)
+
+* [**GitHub Sponsors**](https://github.com/sponsors/nomadicGopher)
+
+* **ETH**: 
+
+* **BTC**: 
+
+* **LTC**: 
+
+* **DOGE**: 
+
+* **SOL**: 
