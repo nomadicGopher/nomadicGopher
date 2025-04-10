@@ -19,12 +19,12 @@
 
 * [**GitHub Sponsors**](https://github.com/sponsors/nomadicGopher)
 
-* **ETH**: 
+* **ETH**: 0x7531d86D5Dbda398369ec43205F102e79B3c647A
 
-* **BTC**: 
+* **BTC**: bc1qtkuzp85vph7y37rqjlznuta293qsay07cgg90s
 
-* **LTC**: 
+* **LTC**: ltc1q9pquzquaj6peplygqdrcxxvcnd5fcud7x80lh8
 
-* **DOGE**: 
+* **DOGE**: DNQ3GHBVEcNpzXNeB7B4sPqd7L1GhUpMg3
 
-* **SOL**: 
+* **SOL**: EQ6QwibvKZsazjvQGJk6fsGW4BQSDS1Zs6Dj79HfVvME
