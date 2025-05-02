@@ -2,12 +2,11 @@
 | :-: |
 
 ## Software:
-&nbsp; 💻 that [**I've produced**](https://github.com/nomadicGopher?tab=repositories).  
-&nbsp; ✅ [**programs**](https://github.com/stars/nomadicGopher/lists/use-or-recommend), [**SDKs**](https://github.com/stars/nomadicGopher/lists/sdks) & [**VS Code extensions**](https://github.com/stars/nomadicGopher/lists/vs-code-extensions) that I use or recommend.  
+&nbsp; Ⓒ that [**I've produced**](https://github.com/nomadicGopher?tab=repositories).  
+&nbsp; 👍 [**programs**](https://github.com/stars/nomadicGopher/lists/use-or-recommend), [**SDKs**](https://github.com/stars/nomadicGopher/lists/sdks) & [**VS Code extensions**](https://github.com/stars/nomadicGopher/lists/vs-code-extensions) that I use or recommend.  
 &nbsp; 💡 that I'm [**interested in**](https://github.com/stars/nomadicGopher/lists/interested-in).  
-&nbsp; 🧾 [**curated lists**](https://github.com/stars/nomadicGopher/lists/curated-lists) and [**demos/tutorials**](https://github.com/stars/nomadicGopher/lists/demos-tutorials).  
-<!--&nbsp; 🗂️ that I've [**tried & may revisit**](https://github.com/stars/nomadicGopher/lists/archives).  -->
-<!--&nbsp;&nbsp; 🖧 for [**cyber security**](https://github.com/stars/nomadicGopher/lists/cyber-security-resources).-->
+&nbsp; ☰ in [**curated lists**](https://github.com/stars/nomadicGopher/lists/curated-lists).  
+&nbsp; 💻 in [**demos/tutorials**](https://github.com/stars/nomadicGopher/lists/demos-tutorials).
 
 ## Other Profiles
 * **[Exercism](https://exercism.org/profiles/nomadicGopher)**  
