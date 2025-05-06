@@ -1,7 +1,7 @@
 | <img src="/github-metrics.svg" />| 
 | :-: |
 
-### Software ...
+### Software:
 &nbsp;&nbsp; Ⓒ &nbsp;that [**I've produced**](https://github.com/nomadicGopher?tab=repositories).  
 &nbsp; 👍🏼 [**programs**](https://github.com/stars/nomadicGopher/lists/programs), [**SDKs**](https://github.com/stars/nomadicGopher/lists/sdks) & [**VS Code extensions**](https://github.com/stars/nomadicGopher/lists/vs-code-extensions) that I use or recommend.  
 &nbsp; 💡 that I'm [**interested in**](https://github.com/stars/nomadicGopher/lists/interested-in).  
