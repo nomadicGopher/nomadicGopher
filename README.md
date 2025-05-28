@@ -1,5 +1,7 @@
-| <img src="/github-metrics.svg" />| 
-| :-: |
+<!--| <img src="/github-metrics.svg" />| 
+| :-: |-->
+
+![](https://raw.githubusercontent.com/nomadicGopher/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ### Software:
 * that [**I've produced**](https://github.com/nomadicGopher?tab=repositories). Ⓒ
