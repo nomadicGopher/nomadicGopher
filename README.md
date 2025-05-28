@@ -5,15 +5,11 @@
 
 ### Software:
 * that [**I've produced**](https://github.com/nomadicGopher?tab=repositories). Ⓒ
+  * [Sandbox projects & learning/exercise accounts](https://github.com/nomadicGopher/Sandbox/blob/main/README.md)
 * [**programs**](https://github.com/stars/nomadicGopher/lists/programs), [**SDKs**](https://github.com/stars/nomadicGopher/lists/sdks) & [**VS Code extensions**](https://github.com/stars/nomadicGopher/lists/vs-code-extensions) that I use or recommend. 👍🏼
 * that I'm [**interested in**](https://github.com/stars/nomadicGopher/lists/interested-in). 💡
 * [**curated lists**](https://github.com/stars/nomadicGopher/lists/curated-lists). ☰
 * [**demos/tutorials**](https://github.com/stars/nomadicGopher/lists/demos-tutorials). 💻
-
-### Other Profiles
-* **[Exercism](https://exercism.org/profiles/nomadicGopher)**
-<!--* **[HackTheBox](https://app.hackthebox.com/users/2141921)**-->
-<!--* **[HackerRank](https://hackerrank.com/profile/nomadicGopher)**-->
 
 ---
 
