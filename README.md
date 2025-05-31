@@ -4,12 +4,12 @@
 ![](github-stats/languages.svg#gh-dark-mode-only) ![](github-stats//overview.svg#gh-dark-mode-only)
 
 ### Software:
-* that [I've produced](https://github.com/nomadicGopher?tab=repositories). Ⓒ
-  * [_Sandbox projects & learning/exercise accounts_](https://github.com/nomadicGopher/Sandbox/blob/main/README.md).
+* that [I've produced](https://github.com/nomadicGopher?tab=repositories). ©
+  * [_Sandbox projects & learning/exercise accounts_](https://github.com/nomadicGopher/Sandbox/blob/main/README.md). 📖✍
 * [programs](https://github.com/stars/nomadicGopher/lists/programs), [SDKs](https://github.com/stars/nomadicGopher/lists/sdks) & [VS Code extensions](https://github.com/stars/nomadicGopher/lists/vs-code-extensions) that I use or recommend. 👍🏼
 * that I'm [interested in](https://github.com/stars/nomadicGopher/lists/interested-in). 💡
 * [curated lists](https://github.com/stars/nomadicGopher/lists/curated-lists). ☰
-* [demos/tutorials](https://github.com/stars/nomadicGopher/lists/demos-tutorials). 💻
+* [demos/tutorials](https://github.com/stars/nomadicGopher/lists/demos-tutorials). 📋
 
 ---
 
