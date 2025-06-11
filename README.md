@@ -1,6 +1,3 @@
-<!--| <img src="/github-metrics.svg" /> |
-|:--------:|-->
-
 ![](github-stats/languages.svg#gh-dark-mode-only) ![](github-stats//overview.svg#gh-dark-mode-only)
 
 ### Software:
