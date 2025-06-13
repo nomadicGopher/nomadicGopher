@@ -11,10 +11,6 @@
 * [curated lists](https://github.com/stars/nomadicGopher/lists/curated-lists). ☰
 * [demos/tutorials](https://github.com/stars/nomadicGopher/lists/demos-tutorials). 📋
 
-<br />
-
-![](proxy-image.gif)
-
 <h3>Support Me:</h3>
 
 <table>
@@ -38,3 +34,7 @@
     <td><img width="100px" src="hire.png" /></td>
   </tr>
 </table>
+
+<br />
+
+![](proxy-image.gif)
