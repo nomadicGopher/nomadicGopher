@@ -1,3 +1,7 @@
+<h3>Hello, my name is Jon & I am a &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=20&duration=2000&pause=1250&color=99D21B&vCenter=true&width=250&height=20&lines=backend+software+engineer;husband+%26+father+of+2+boys;RV+nomad+in+the+US"/></h3><!--https://readme-typing-svg.demolab.com/demo/-->
+
+<br />
+
 ![](github-stats/languages.svg#gh-dark-mode-only) ![](github-stats//overview.svg#gh-dark-mode-only)
 
 ### Software:
@@ -9,7 +13,7 @@
 
 <br />
 
-![](proxy-image.gif)
+<img src="proxy-image.gif"/>
 
 ### Support Me At:
 * [GitHub Sponsors](https://github.com/sponsors/nomadicGopher)
@@ -25,6 +29,3 @@
     <li><b>SOL</b>: EQ6QwibvKZsazjvQGJk6fsGW4BQSDS1Zs6Dj79HfVvME</li>
   </ul>
 </details>
-
-
-
