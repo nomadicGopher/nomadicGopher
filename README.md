@@ -1,6 +1,6 @@
-### Hello, my name is Jon & I am a &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=20&duration=2000&pause=1250&color=99D21B&vCenter=true&width=250&height=20&lines=backend+software+engineer;husband+%26+father+of+2+boys;RV+nomad+in+the+US"/><!--https://readme-typing-svg.demolab.com/demo/-->
+### Hello, my name is Jon & I am a &nbsp;[![](https://readme-typing-svg.demolab.com?font=Ubuntu&size=20&duration=2000&pause=1250&color=99D21B&vCenter=true&width=250&height=20&lines=backend+software+engineer;husband+%26+father+of+2+boys;RV+nomad+in+the+US)](https://git.io/typing-svg)
 
-<img src="github-stats/languages.svg#gh-dark-mode-only"/><img src="github-stats//overview.svg#gh-dark-mode-only"/>
+![](github-stats/languages.svg#gh-dark-mode-only)![](github-stats//overview.svg#gh-dark-mode-only)
 
 ### Software:
 * that [I've produced](https://github.com/nomadicGopher?tab=repositories). ©
@@ -11,7 +11,7 @@
 
 <br />
 
-<img src="proxy-image.gif"/>
+![](proxy-image.gif)
 
 ### Support Me At:
 * [GitHub Sponsors](https://github.com/sponsors/nomadicGopher)
