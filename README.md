@@ -2,7 +2,7 @@
 
 <br />
 
-<img width="360px" src="github-stats/languages.svg#gh-dark-mode-only"/><img width="360px" src="github-stats//overview.svg#gh-dark-mode-only"/>
+<img width="360px" height="210px" src="github-stats/languages.svg#gh-dark-mode-only"/><img width="360px" height="210px" src="github-stats//overview.svg#gh-dark-mode-only"/>
 <!--![](github-stats/languages.svg#gh-dark-mode-only)![](github-stats//overview.svg#gh-dark-mode-only)360-->
 
 ### Software:
