@@ -1,4 +1,4 @@
-### Hello, my name is Jon & I am a &nbsp;![](https://readme-typing-svg.demolab.com?font=Ubuntu&size=20&duration=2000&pause=1250&color=99D21B&vCenter=true&width=250&height=20&lines=husband+%26+father+of+2+boys;RV+nomad+in+the+US;backend+software+engineer;aspiring+full+stack+engineer)
+### Hello, my name is Jon & I am ![](https://readme-typing-svg.demolab.com?font=Ubuntu&size=20&duration=2000&pause=1250&color=99D21B&vCenter=true&width=333&height=20&lines=a+husband+%26+father+of+2+boys;an+RV+nomad+in+the+US;a+backend+engineer+(Go/PgSQL);interested+in+full+stack+%26+pen+testing)
 
 ![](github-stats/languages.svg#gh-dark-mode-only)![](github-stats//overview.svg#gh-dark-mode-only)
 
