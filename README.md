@@ -27,4 +27,4 @@
 
 <br />
 
-![](proxy-image.gif)
+![](running_gopher.gif)
