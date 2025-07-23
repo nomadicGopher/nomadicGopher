@@ -1,21 +1,14 @@
-### Hello, my name is Jon & I am ![](https://readme-typing-svg.demolab.com?font=Ubuntu&size=20&duration=2000&pause=1500&color=99D21B&vCenter=true&width=333&height=20&lines=a+husband+%26+father+of+2+boys;an+RV+nomad+in+the+US;a+backend+engineer+in+healthcare;interested+in+full-stack+%26+pen-testing.)
+### Hello, my name is Jon & I am ![](https://readme-typing-svg.demolab.com?font=Ubuntu&size=20&duration=2000&pause=1500&color=99D21B&vCenter=true&width=333&height=20&lines=a+husband+%26+father+of+2+boys;an+RV+nomad+in+the+US;a+backend+engineer+in+healthcare.)
 
 ![](github-stats/languages.svg#gh-dark-mode-only)![](github-stats//overview.svg#gh-dark-mode-only)
 
-### Software:
-* that [I've produced](https://github.com/nomadicGopher?tab=repositories). ©
-* [programs](https://github.com/stars/nomadicGopher/lists/programs), [SDKs](https://github.com/stars/nomadicGopher/lists/sdks) & [VS Code extensions](https://github.com/stars/nomadicGopher/lists/vs-code-extensions) that I use or recommend. 👍🏼
-* that I'm currently [interested in](https://github.com/stars/nomadicGopher/lists/interested-in). 💡
-* [curated lists](https://github.com/stars/nomadicGopher/lists/curated-lists). ☰
-* [demos/tutorials](https://github.com/stars/nomadicGopher/lists/demos-tutorials). 📋
+<img align="right" width="25%" src="https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/vector/adventure/hiking.svg">
 
-<img align="right" width="33.33%" src="https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/vector/adventure/hiking.svg">
-
-<h3>Support Me:</h3>
-<ul>
-  <li><a href="https://github.com/sponsors/nomadicGopher" target="_blank">GitHub Sponsors</a></li>
-  <li><a href="https://ko-fi.com/nomadicGopher" target="_blank">Ko-Fi</a></li>
-</ul>
+* [Browse software lists that I've curated](https://github.com/nomadicGopher?tab=stars) ☰
+* Support me via: 
+  * <a href="https://github.com/sponsors/nomadicGopher" target="_blank">GitHub Sponsors</a>
+  * <a href="https://ko-fi.com/nomadicGopher" target="_blank">Ko-Fi</a>
+  
 <details>
   <summary><b>Crypto Currencies</b></summary>
   <ul>
