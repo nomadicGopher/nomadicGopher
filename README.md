@@ -2,14 +2,14 @@
 
 ![](github-stats/languages.svg#gh-dark-mode-only)![](github-stats//overview.svg#gh-dark-mode-only)
 
-<img align="right" width="33.33%" src="https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/vector/adventure/hiking.svg">
-
 ### Software:
 * that [I've produced](https://github.com/nomadicGopher?tab=repositories). ©
 * [programs](https://github.com/stars/nomadicGopher/lists/programs), [SDKs](https://github.com/stars/nomadicGopher/lists/sdks) & [VS Code extensions](https://github.com/stars/nomadicGopher/lists/vs-code-extensions) that I use or recommend. 👍🏼
 * that I'm currently [interested in](https://github.com/stars/nomadicGopher/lists/interested-in). 💡
 * [curated lists](https://github.com/stars/nomadicGopher/lists/curated-lists). ☰
 * [demos/tutorials](https://github.com/stars/nomadicGopher/lists/demos-tutorials). 📋
+
+<img align="right" width="33.33%" src="https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/vector/adventure/hiking.svg">
 
 <h3>Support Me:</h3>
 <ul>
@@ -26,8 +26,3 @@
       <li><b>SOL</b>: EQ6QwibvKZsazjvQGJk6fsGW4BQSDS1Zs6Dj79HfVvME</li>
   </ul>
 </details>
-
-<!--
-<br />
-
-![](running_gopher.gif)-->
