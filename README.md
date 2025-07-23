@@ -2,6 +2,8 @@
 
 ![](github-stats/languages.svg#gh-dark-mode-only)![](github-stats//overview.svg#gh-dark-mode-only)
 
+<img align="right" width="33.33%" src="https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/vector/adventure/hiking.svg">
+
 ### Software:
 * that [I've produced](https://github.com/nomadicGopher?tab=repositories). ©
 * [programs](https://github.com/stars/nomadicGopher/lists/programs), [SDKs](https://github.com/stars/nomadicGopher/lists/sdks) & [VS Code extensions](https://github.com/stars/nomadicGopher/lists/vs-code-extensions) that I use or recommend. 👍🏼
@@ -25,6 +27,7 @@
   </ul>
 </details>
 
+<!--
 <br />
 
-![](running_gopher.gif)
+![](running_gopher.gif)-->
