@@ -2,7 +2,7 @@
 
 ![](github-stats/languages.svg#gh-dark-mode-only)![](github-stats//overview.svg#gh-dark-mode-only)
 
-<img align="right" width="25%" src="https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/vector/adventure/hiking.svg">
+<img align="right" width="33.333%" src="https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/vector/adventure/hiking.svg">
 
 * [Browse software lists that I've curated](https://github.com/nomadicGopher?tab=stars) ☰
 * Support me via: 
