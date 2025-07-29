@@ -4,7 +4,7 @@
 
 <img align="right" width="33.333%" src="https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/vector/adventure/hiking.svg">
 
-* [Browse software lists that I've curated](https://github.com/nomadicGopher?tab=stars) ☰
+* ☰ [Browse software lists that I've curated](https://github.com/nomadicGopher?tab=stars)
 * Support me via: 
   * <a href="https://github.com/sponsors/nomadicGopher" target="_blank">GitHub Sponsors</a>
   * <a href="https://ko-fi.com/nomadicGopher" target="_blank">Ko-Fi</a>
