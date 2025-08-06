@@ -2,15 +2,20 @@
 
 ![](github-stats/languages.svg#gh-dark-mode-only)![](github-stats//overview.svg#gh-dark-mode-only)
 
-<img align="right" width="33.333%" src="https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/vector/adventure/hiking.svg">
+☰ [Browse software lists that I've curated](https://github.com/nomadicGopher?tab=stars)
 
-* ☰ [Browse software lists that I've curated](https://github.com/nomadicGopher?tab=stars)
-* Support me via: 
-  * <a href="https://github.com/sponsors/nomadicGopher" target="_blank">GitHub Sponsors</a>
-  * <a href="https://ko-fi.com/nomadicGopher" target="_blank">Ko-Fi</a>
-  
+<hr>
+
 <details>
-  <summary><b>Crypto Currencies</b></summary>
+  <summary><b>Support My Work</b></summary>
+  <img align="right" width="33.333%" src="https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/vector/adventure/hiking.svg"> 
+  <br>
+  Single or or monthly contributions
+  <ul>
+   <li><a href="https://github.com/sponsors/nomadicGopher" target="_blank">GitHub Sponsors</a></li>
+   <li><a href="https://ko-fi.com/nomadicGopher" target="_blank">Ko-Fi</a></li>
+  </ul> 
+  Crypto currency wallets
   <ul>
       <li><b>ETH</b>: 0x7531d86D5Dbda398369ec43205F102e79B3c647A</li>
       <li><b>BTC</b>: bc1qtkuzp85vph7y37rqjlznuta293qsay07cgg90s</li>
