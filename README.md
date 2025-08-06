@@ -10,7 +10,7 @@
   <summary><b>Support My Work</b></summary>
   <img align="right" width="33.333%" src="https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/vector/adventure/hiking.svg"> 
   <br>
-  Single or or monthly contributions
+  Single or monthly contributions
   <ul>
    <li><a href="https://github.com/sponsors/nomadicGopher" target="_blank">GitHub Sponsors</a></li>
    <li><a href="https://ko-fi.com/nomadicGopher" target="_blank">Ko-Fi</a></li>
