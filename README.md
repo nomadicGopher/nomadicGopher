@@ -4,10 +4,10 @@
 
 <!--![](github-stats/languages.svg#gh-dark-mode-only)![](github-stats//overview.svg#gh-dark-mode-only)-->
 **Proficient**  
-<img src="https://skillicons.dev/icons?i=go,postgres,html,css,markdown,wordpress" height="40px" /><!--linux,windows,azure,gcp,git,cloudflare,vscode-->
+<img src="https://skillicons.dev/icons?i=go,postgres,html,css,markdown,wordpress" height="40px" />
 
 **Familiar**  
-<img src="https://skillicons.dev/icons?i=python,bash,javascript,angular" height="40px" /><!--postman,docker,githubactions-->
+<img src="https://skillicons.dev/icons?i=python,bash,javascript,angular" height="40px" />
 
 <br>
 
