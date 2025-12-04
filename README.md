@@ -1,21 +1,6 @@
 ### Hi, I am currently ![](https://readme-typing-svg.demolab.com?font=Ubuntu&size=20&duration=2000&pause=1500&color=99D21B&vCenter=true&width=333&height=20&lines=a+husband+%26+father+of+2+boys;an+RV+nomad+in+the+US;a+software+engineer+in+healthcare;learning+AppSec+Engineering.)
 
-<br>
-
-<!--![](github-stats/languages.svg#gh-dark-mode-only)![](github-stats//overview.svg#gh-dark-mode-only)-->
-**Proficient**  
-<img src="https://skillicons.dev/icons?i=go,postgres,html,css,markdown,wordpress" height="40px" />
-
-**Familiar**  
-<img src="https://skillicons.dev/icons?i=python,bash,javascript,angular" height="40px" />
-
-<br>
-
-* [HackTheBox Profile](https://app.hackthebox.com/users/2141921 "Offensive Security Exercises")
-* [Exercism Profile](https://exercism.org/profiles/nomadicGopher "Coding Exercises")
-<!--* [HackerRank](https://hackerrank.com/profile/nomadicGopher "Coding Exercises")-->
-
-<br>
+---
 
 <details>
   <summary><b>Support My Work</b></summary>
