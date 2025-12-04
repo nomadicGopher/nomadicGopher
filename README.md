@@ -1,4 +1,4 @@
-### Hi, I am currently ![](https://readme-typing-svg.demolab.com?font=Ubuntu&size=20&duration=2000&pause=1500&color=99D21B&vCenter=true&width=333&height=20&lines=a+husband+%26+father+of+2+boys;an+RV+nomad+in+the+US;a+software+engineer+in+healthcare;learning+AppSec+Engineering.)
+### Hi, I am currently ![](https://readme-typing-svg.demolab.com?font=Ubuntu&size=20&duration=2000&pause=1500&color=99D21B&vCenter=true&width=333&height=20&lines=a+husband+%26+father+of+2+boys;an+RV+nomad+in+the+US;a+Data+Engineer+in+healthcare;learning+PenTesting+on+HTB.)
 
 ---
 
